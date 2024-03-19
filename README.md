@@ -1,3 +1,3 @@
 # shreyademo
 this is first repositories<br>
-author-shreya ganna
+author-shreya ganna student
